@@ -30,7 +30,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Jeyabalan
 RegisterNumber: 212222240040
 */
-```
 import pandas as pd
 import numpy as np
 dataset=pd.read_csv('/content/student_scores.csv')
@@ -75,6 +74,7 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse
+```
 
 ## Output:
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/9b2e5b55-5a28-4107-8183-32a370a9183a)
