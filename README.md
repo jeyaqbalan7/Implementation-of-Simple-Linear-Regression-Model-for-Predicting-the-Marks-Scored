@@ -77,19 +77,13 @@ print("RMSE = ",rmse
 ```
 
 ## Output:
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/9b2e5b55-5a28-4107-8183-32a370a9183a)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/1fd35bd9-a94c-4699-a082-9e68e57d95c7)
+df.head()
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/c477c650-1ae8-400d-b051-e564c21da395)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/c135b4ce-f175-43ab-add8-65e891be1c80)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/f25b0e5c-113a-4b97-8fdc-4a2939b5f6b9)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/b6f43eea-0035-49b6-bec3-6583209a5322)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/5b7bca41-916c-4514-bcee-f14a5f326c5f)
-
-![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/30a6202d-7050-47c8-b861-7eb53b98b092)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
