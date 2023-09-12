@@ -81,9 +81,29 @@ print("RMSE = ",rmse
 ## df.head()
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/c477c650-1ae8-400d-b051-e564c21da395)
 
+## df.tail()
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/c3f55738-5274-4fe8-a3dd-90b6db16eadc)
 
+## Array value of X
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/eae760d2-2953-4740-ac24-05b6e4972b2f)
 
+## Array value of Y
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/c542f418-099a-46bf-bde2-f632498f8095)
 
+## Values of Y prediction
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/68e47d45-1728-44ec-bb74-f4639611b0d3)
+
+## Array values of Y test
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/8220824e-1e91-4b47-956c-e82343209944)
+
+## Training Set Graph
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/55f14cc9-047d-4a31-af8b-f780dbcec8e7)
+
+## Test Set Graph
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/2c9e5d1b-5d64-4abe-9715-42d12ee7f057)
+
+## Values of MSE, MAE and RMSE
+![image](https://github.com/jeyaqbalan7/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393851/f209174e-a8f8-455c-8ee8-29bfa42d350f)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
